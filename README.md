@@ -10,7 +10,7 @@ I am very glad to present my academic skills in the form of the project work whi
 -------------------------------------------------------
 List of ‘Tags’ that had been used in making of the ‘Website’
 -------------------------------------------------------
-          HTML
+          ||HTML||
 html							head
 title							style
 body						        h1
@@ -25,7 +25,7 @@ input						select
 option						textarea
 table						th
 tr						td
-          CSS
+          ||CSS||
 Padding 						cursor
 class							target
 id							name
