@@ -11,20 +11,20 @@ I am very glad to present my academic skills in the form of the project work whi
 List of ‘Tags’ that had been used in making of the ‘Website’
 -------------------------------------------------------
           HTML
-<html>							<head>
-<title>							<style>
-<body>						<h1>
-<hr>							<a>
-<img>							<marquee>
-<div>							<u>
-<br>							<p>
-<ol>							<li>
-<ul>							<center>
-<form>						<label>
-<input>						<select>
-<option>						<textarea>
-<table>						<th>
-<tr>							<td>
+html							head
+title							style
+body						        h1
+hr							a
+img							marquee
+div							u
+br							p
+ol							li
+ul							center
+form						label
+input						select
+option						textarea
+table						th
+tr						td
           CSS
 Padding 						cursor
 class							target
