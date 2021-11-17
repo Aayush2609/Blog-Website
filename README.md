@@ -44,6 +44,7 @@ hover 							background-position
 background-color 					transition
 background-image 					text-align 
 margin 						text-decoration
+
 ------------------------------------------------------- 
 Snapshots of the website:-
 ------------------------------------------------------- 
